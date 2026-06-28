@@ -1,4 +1,4 @@
-name = "mlb-world-series-quiz"
+name = "world-series-quiz"
 main = "dist/server/index.mjs"
 compatibility_date = "2025-01-01"
 compatibility_flags = ["nodejs_compat"]
