@@ -1,6 +1,8 @@
-# MLB World Series Quiz
+![World Series Quiz: Test your knowledge of every fall classic](/src/assets/og-share.png)
 
-A TanStack Start (React 19 + Vite 7) quiz app covering every World Series from 1903 to today. Themed after the MLB brand.
+A quiz covering every World Series from 1903 to today.
+
+**https://www.worldseriesquiz.com/**
 
 ## Prerequisites
 
