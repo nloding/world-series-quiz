@@ -1,0 +1,8 @@
+name = "mlb-world-series-quiz"
+main = "dist/server/index.mjs"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = "dist/client"
+binding = "ASSETS"

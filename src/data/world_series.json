@@ -1,0 +1,851 @@
+{
+  "series": [
+    {
+      "year": 2025,
+      "winner": "Los Angeles Dodgers",
+      "loser": "Toronto Blue Jays",
+      "numberOfGames": 7,
+      "mvp": "Yoshinobu Yamamoto"
+    },
+    {
+      "year": 2024,
+      "winner": "Los Angeles Dodgers",
+      "loser": "New York Yankees",
+      "numberOfGames": 5,
+      "mvp": "Freddie Freeman"
+    },
+    {
+      "year": 2023,
+      "winner": "Texas Rangers",
+      "loser": "Arizona Diamondbacks",
+      "numberOfGames": 5,
+      "mvp": "Corey Seager"
+    },
+    {
+      "year": 2022,
+      "winner": "Houston Astros",
+      "loser": "Philadelphia Phillies",
+      "numberOfGames": 6,
+      "mvp": "Jeremy Peña"
+    },
+    {
+      "year": 2021,
+      "winner": "Atlanta Braves",
+      "loser": "Houston Astros",
+      "numberOfGames": 6,
+      "mvp": "Jorge Soler"
+    },
+    {
+      "year": 2020,
+      "winner": "Los Angeles Dodgers",
+      "loser": "Tampa Bay Rays",
+      "numberOfGames": 6,
+      "mvp": "Corey Seager"
+    },
+    {
+      "year": 2019,
+      "winner": "Washington Nationals",
+      "loser": "Houston Astros",
+      "numberOfGames": 7,
+      "mvp": "Stephen Strasburg"
+    },
+    {
+      "year": 2018,
+      "winner": "Boston Red Sox",
+      "loser": "Los Angeles Dodgers",
+      "numberOfGames": 5,
+      "mvp": "Steve Pearce"
+    },
+    {
+      "year": 2017,
+      "winner": "Houston Astros",
+      "loser": "Los Angeles Dodgers",
+      "numberOfGames": 7,
+      "mvp": "George Springer"
+    },
+    {
+      "year": 2016,
+      "winner": "Chicago Cubs",
+      "loser": "Cleveland Indians",
+      "numberOfGames": 7,
+      "mvp": "Ben Zobrist"
+    },
+    {
+      "year": 2015,
+      "winner": "Kansas City Royals",
+      "loser": "New York Mets",
+      "numberOfGames": 5,
+      "mvp": "Salvador Perez"
+    },
+    {
+      "year": 2014,
+      "winner": "San Francisco Giants",
+      "loser": "Kansas City Royals",
+      "numberOfGames": 7,
+      "mvp": "Madison Bumgarner"
+    },
+    {
+      "year": 2013,
+      "winner": "Boston Red Sox",
+      "loser": "St. Louis Cardinals",
+      "numberOfGames": 6,
+      "mvp": "David Ortiz"
+    },
+    {
+      "year": 2012,
+      "winner": "San Francisco Giants",
+      "loser": "Detroit Tigers",
+      "numberOfGames": 4,
+      "mvp": "Pablo Sandoval"
+    },
+    {
+      "year": 2011,
+      "winner": "St. Louis Cardinals",
+      "loser": "Texas Rangers",
+      "numberOfGames": 7,
+      "mvp": "David Freese"
+    },
+    {
+      "year": 2010,
+      "winner": "San Francisco Giants",
+      "loser": "Texas Rangers",
+      "numberOfGames": 5,
+      "mvp": "Édgar Rentería"
+    },
+    {
+      "year": 2009,
+      "winner": "New York Yankees",
+      "loser": "Philadelphia Phillies",
+      "numberOfGames": 6,
+      "mvp": "Hideki Matsui"
+    },
+    {
+      "year": 2008,
+      "winner": "Philadelphia Phillies",
+      "loser": "Tampa Bay Rays",
+      "numberOfGames": 5,
+      "mvp": "Cole Hamels"
+    },
+    {
+      "year": 2007,
+      "winner": "Boston Red Sox",
+      "loser": "Colorado Rockies",
+      "numberOfGames": 4,
+      "mvp": "Mike Lowell"
+    },
+    {
+      "year": 2006,
+      "winner": "St. Louis Cardinals",
+      "loser": "Detroit Tigers",
+      "numberOfGames": 5,
+      "mvp": "David Eckstein"
+    },
+    {
+      "year": 2005,
+      "winner": "Chicago White Sox",
+      "loser": "Houston Astros",
+      "numberOfGames": 4,
+      "mvp": "Jermaine Dye"
+    },
+    {
+      "year": 2004,
+      "winner": "Boston Red Sox",
+      "loser": "St. Louis Cardinals",
+      "numberOfGames": 4,
+      "mvp": "Manny Ramirez"
+    },
+    {
+      "year": 2003,
+      "winner": "Florida Marlins",
+      "loser": "New York Yankees",
+      "numberOfGames": 6,
+      "mvp": "Josh Beckett"
+    },
+    {
+      "year": 2002,
+      "winner": "Anaheim Angels",
+      "loser": "San Francisco Giants",
+      "numberOfGames": 7,
+      "mvp": "Troy Glaus"
+    },
+    {
+      "year": 2001,
+      "winner": "Arizona Diamondbacks",
+      "loser": "New York Yankees",
+      "numberOfGames": 7,
+      "mvp": "Randy Johnson, Curt Schilling"
+    },
+    {
+      "year": 2000,
+      "winner": "New York Yankees",
+      "loser": "New York Mets",
+      "numberOfGames": 5,
+      "mvp": "Derek Jeter"
+    },
+    {
+      "year": 1999,
+      "winner": "New York Yankees",
+      "loser": "Atlanta Braves",
+      "numberOfGames": 4,
+      "mvp": "Mariano Rivera"
+    },
+    {
+      "year": 1998,
+      "winner": "New York Yankees",
+      "loser": "San Diego Padres",
+      "numberOfGames": 4,
+      "mvp": "Scott Brosius"
+    },
+    {
+      "year": 1997,
+      "winner": "Florida Marlins",
+      "loser": "Cleveland Indians",
+      "numberOfGames": 7,
+      "mvp": "Liván Hernández"
+    },
+    {
+      "year": 1996,
+      "winner": "New York Yankees",
+      "loser": "Atlanta Braves",
+      "numberOfGames": 6,
+      "mvp": "John Wetteland"
+    },
+    {
+      "year": 1995,
+      "winner": "Atlanta Braves",
+      "loser": "Cleveland Indians",
+      "numberOfGames": 6,
+      "mvp": "Tom Glavine"
+    },
+    {
+      "year": 1993,
+      "winner": "Toronto Blue Jays",
+      "loser": "Philadelphia Phillies",
+      "numberOfGames": 6,
+      "mvp": "Paul Molitor"
+    },
+    {
+      "year": 1992,
+      "winner": "Toronto Blue Jays",
+      "loser": "Atlanta Braves",
+      "numberOfGames": 6,
+      "mvp": "Pat Borders"
+    },
+    {
+      "year": 1991,
+      "winner": "Minnesota Twins",
+      "loser": "Atlanta Braves",
+      "numberOfGames": 7,
+      "mvp": "Jack Morris"
+    },
+    {
+      "year": 1990,
+      "winner": "Cincinnati Reds",
+      "loser": "Oakland Athletics",
+      "numberOfGames": 4,
+      "mvp": "José Rijo"
+    },
+    {
+      "year": 1989,
+      "winner": "Oakland Athletics",
+      "loser": "San Francisco Giants",
+      "numberOfGames": 4,
+      "mvp": "Dave Stewart"
+    },
+    {
+      "year": 1988,
+      "winner": "Los Angeles Dodgers",
+      "loser": "Oakland Athletics",
+      "numberOfGames": 5,
+      "mvp": "Orel Hershiser"
+    },
+    {
+      "year": 1987,
+      "winner": "Minnesota Twins",
+      "loser": "St. Louis Cardinals",
+      "numberOfGames": 7,
+      "mvp": "Frank Viola"
+    },
+    {
+      "year": 1986,
+      "winner": "New York Mets",
+      "loser": "Boston Red Sox",
+      "numberOfGames": 7,
+      "mvp": "Ray Knight"
+    },
+    {
+      "year": 1985,
+      "winner": "Kansas City Royals",
+      "loser": "St. Louis Cardinals",
+      "numberOfGames": 7,
+      "mvp": "Bret Saberhagen"
+    },
+    {
+      "year": 1984,
+      "winner": "Detroit Tigers",
+      "loser": "San Diego Padres",
+      "numberOfGames": 5,
+      "mvp": "Alan Trammell"
+    },
+    {
+      "year": 1983,
+      "winner": "Baltimore Orioles",
+      "loser": "Philadelphia Phillies",
+      "numberOfGames": 5,
+      "mvp": "Rick Dempsey"
+    },
+    {
+      "year": 1982,
+      "winner": "St. Louis Cardinals",
+      "loser": "Milwaukee Brewers",
+      "numberOfGames": 7,
+      "mvp": "Darrell Porter"
+    },
+    {
+      "year": 1981,
+      "winner": "Los Angeles Dodgers",
+      "loser": "New York Yankees",
+      "numberOfGames": 6,
+      "mvp": "Ron Cey, Pedro Guerrero, Steve Yeager"
+    },
+    {
+      "year": 1980,
+      "winner": "Philadelphia Phillies",
+      "loser": "Kansas City Royals",
+      "numberOfGames": 6,
+      "mvp": "Mike Schmidt"
+    },
+    {
+      "year": 1979,
+      "winner": "Pittsburgh Pirates",
+      "loser": "Baltimore Orioles",
+      "numberOfGames": 7,
+      "mvp": "Willie Stargell"
+    },
+    {
+      "year": 1978,
+      "winner": "New York Yankees",
+      "loser": "Los Angeles Dodgers",
+      "numberOfGames": 6,
+      "mvp": "Bucky Dent"
+    },
+    {
+      "year": 1977,
+      "winner": "New York Yankees",
+      "loser": "Los Angeles Dodgers",
+      "numberOfGames": 6,
+      "mvp": "Reggie Jackson"
+    },
+    {
+      "year": 1976,
+      "winner": "Cincinnati Reds",
+      "loser": "New York Yankees",
+      "numberOfGames": 4,
+      "mvp": "Johnny Bench"
+    },
+    {
+      "year": 1975,
+      "winner": "Cincinnati Reds",
+      "loser": "Boston Red Sox",
+      "numberOfGames": 7,
+      "mvp": "Pete Rose"
+    },
+    {
+      "year": 1974,
+      "winner": "Oakland Athletics",
+      "loser": "Los Angeles Dodgers",
+      "numberOfGames": 5,
+      "mvp": "Rollie Fingers"
+    },
+    {
+      "year": 1973,
+      "winner": "Oakland Athletics",
+      "loser": "New York Mets",
+      "numberOfGames": 7,
+      "mvp": "Reggie Jackson"
+    },
+    {
+      "year": 1972,
+      "winner": "Oakland Athletics",
+      "loser": "Cincinnati Reds",
+      "numberOfGames": 7,
+      "mvp": "Gene Tenace"
+    },
+    {
+      "year": 1971,
+      "winner": "Pittsburgh Pirates",
+      "loser": "Baltimore Orioles",
+      "numberOfGames": 7,
+      "mvp": "Roberto Clemente"
+    },
+    {
+      "year": 1970,
+      "winner": "Baltimore Orioles",
+      "loser": "Cincinnati Reds",
+      "numberOfGames": 5,
+      "mvp": "Brooks Robinson"
+    },
+    {
+      "year": 1969,
+      "winner": "New York Mets",
+      "loser": "Baltimore Orioles",
+      "numberOfGames": 5,
+      "mvp": "Donn Clendenon"
+    },
+    {
+      "year": 1968,
+      "winner": "Detroit Tigers",
+      "loser": "St. Louis Cardinals",
+      "numberOfGames": 7,
+      "mvp": "Mickey Lolich"
+    },
+    {
+      "year": 1967,
+      "winner": "St. Louis Cardinals",
+      "loser": "Boston Red Sox",
+      "numberOfGames": 7,
+      "mvp": "Bob Gibson"
+    },
+    {
+      "year": 1966,
+      "winner": "Baltimore Orioles",
+      "loser": "Los Angeles Dodgers",
+      "numberOfGames": 4,
+      "mvp": "Frank Robinson"
+    },
+    {
+      "year": 1965,
+      "winner": "Los Angeles Dodgers",
+      "loser": "Minnesota Twins",
+      "numberOfGames": 7,
+      "mvp": "Sandy Koufax"
+    },
+    {
+      "year": 1964,
+      "winner": "St. Louis Cardinals",
+      "loser": "New York Yankees",
+      "numberOfGames": 7,
+      "mvp": "Bob Gibson"
+    },
+    {
+      "year": 1963,
+      "winner": "Los Angeles Dodgers",
+      "loser": "New York Yankees",
+      "numberOfGames": 4,
+      "mvp": "Sandy Koufax"
+    },
+    {
+      "year": 1962,
+      "winner": "New York Yankees",
+      "loser": "San Francisco Giants",
+      "numberOfGames": 7,
+      "mvp": "Ralph Terry"
+    },
+    {
+      "year": 1961,
+      "winner": "New York Yankees",
+      "loser": "Cincinnati Reds",
+      "numberOfGames": 5,
+      "mvp": "Whitey Ford"
+    },
+    {
+      "year": 1960,
+      "winner": "Pittsburgh Pirates",
+      "loser": "New York Yankees",
+      "numberOfGames": 7,
+      "mvp": "Bobby Richardson"
+    },
+    {
+      "year": 1959,
+      "winner": "Los Angeles Dodgers",
+      "loser": "Chicago White Sox",
+      "numberOfGames": 6,
+      "mvp": "Larry Sherry"
+    },
+    {
+      "year": 1958,
+      "winner": "New York Yankees",
+      "loser": "Milwaukee Braves",
+      "numberOfGames": 7,
+      "mvp": "Bob Turley"
+    },
+    {
+      "year": 1957,
+      "winner": "Milwaukee Braves",
+      "loser": "New York Yankees",
+      "numberOfGames": 7,
+      "mvp": "Lew Burdette"
+    },
+    {
+      "year": 1956,
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "numberOfGames": 7,
+      "mvp": "Don Larsen"
+    },
+    {
+      "year": 1955,
+      "winner": "Brooklyn Dodgers",
+      "loser": "New York Yankees",
+      "numberOfGames": 7,
+      "mvp": "Johnny Podres"
+    },
+    {
+      "year": 1954,
+      "winner": "New York Giants",
+      "loser": "Cleveland Indians",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1953,
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1952,
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1951,
+      "winner": "New York Yankees",
+      "loser": "New York Giants",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1950,
+      "winner": "New York Yankees",
+      "loser": "Philadelphia Phillies",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1949,
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1948,
+      "winner": "Cleveland Indians",
+      "loser": "Boston Braves",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1947,
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1946,
+      "winner": "St. Louis Cardinals",
+      "loser": "Boston Red Sox",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1945,
+      "winner": "Detroit Tigers",
+      "loser": "Chicago Cubs",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1944,
+      "winner": "St. Louis Cardinals",
+      "loser": "St. Louis Browns",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1943,
+      "winner": "New York Yankees",
+      "loser": "St. Louis Cardinals",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1942,
+      "winner": "St. Louis Cardinals",
+      "loser": "New York Yankees",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1941,
+      "winner": "New York Yankees",
+      "loser": "Brooklyn Dodgers",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1940,
+      "winner": "Cincinnati Reds",
+      "loser": "Detroit Tigers",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1939,
+      "winner": "New York Yankees",
+      "loser": "Cincinnati Reds",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1938,
+      "winner": "New York Yankees",
+      "loser": "Chicago Cubs",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1937,
+      "winner": "New York Yankees",
+      "loser": "New York Giants",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1936,
+      "winner": "New York Yankees",
+      "loser": "New York Giants",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1935,
+      "winner": "Detroit Tigers",
+      "loser": "Chicago Cubs",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1934,
+      "winner": "St. Louis Cardinals",
+      "loser": "Detroit Tigers",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1933,
+      "winner": "New York Giants",
+      "loser": "Washington Nationals",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1932,
+      "winner": "New York Yankees",
+      "loser": "Chicago Cubs",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1931,
+      "winner": "St. Louis Cardinals",
+      "loser": "Philadelphia Athletics",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1930,
+      "winner": "Philadelphia Athletics",
+      "loser": "St. Louis Cardinals",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1929,
+      "winner": "Philadelphia Athletics",
+      "loser": "Chicago Cubs",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1928,
+      "winner": "New York Yankees",
+      "loser": "St. Louis Cardinals",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1927,
+      "winner": "New York Yankees",
+      "loser": "Pittsburgh Pirates",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1926,
+      "winner": "St. Louis Cardinals",
+      "loser": "New York Yankees",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1925,
+      "winner": "Pittsburgh Pirates",
+      "loser": "Washington Nationals",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1924,
+      "winner": "Washington Nationals",
+      "loser": "New York Giants",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1923,
+      "winner": "New York Yankees",
+      "loser": "New York Giants",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1922,
+      "winner": "New York Giants",
+      "loser": "New York Yankees",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1921,
+      "winner": "New York Giants",
+      "loser": "New York Yankees",
+      "numberOfGames": 8,
+      "mvp": ""
+    },
+    {
+      "year": 1920,
+      "winner": "Cleveland Indians",
+      "loser": "Brooklyn Robins",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1919,
+      "winner": "Cincinnati Reds",
+      "loser": "Chicago White Sox",
+      "numberOfGames": 8,
+      "mvp": ""
+    },
+    {
+      "year": 1918,
+      "winner": "Boston Red Sox",
+      "loser": "Chicago Cubs",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1917,
+      "winner": "Chicago White Sox",
+      "loser": "New York Giants",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1916,
+      "winner": "Boston Red Sox",
+      "loser": "Brooklyn Robins",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1915,
+      "winner": "Boston Red Sox",
+      "loser": "Philadelphia Phillies",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1914,
+      "winner": "Boston Braves",
+      "loser": "Philadelphia Athletics",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1913,
+      "winner": "Philadelphia Athletics",
+      "loser": "New York Giants",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1912,
+      "winner": "Boston Red Sox",
+      "loser": "New York Giants",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1911,
+      "winner": "Philadelphia Athletics",
+      "loser": "New York Giants",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1910,
+      "winner": "Philadelphia Athletics",
+      "loser": "Chicago Cubs",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1909,
+      "winner": "Pittsburgh Pirates",
+      "loser": "Detroit Tigers",
+      "numberOfGames": 7,
+      "mvp": ""
+    },
+    {
+      "year": 1908,
+      "winner": "Chicago Cubs",
+      "loser": "Detroit Tigers",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1907,
+      "winner": "Chicago Cubs",
+      "loser": "Detroit Tigers",
+      "numberOfGames": 4,
+      "mvp": ""
+    },
+    {
+      "year": 1906,
+      "winner": "Chicago White Sox",
+      "loser": "Chicago Cubs",
+      "numberOfGames": 6,
+      "mvp": ""
+    },
+    {
+      "year": 1905,
+      "winner": "New York Giants",
+      "loser": "Philadelphia Athletics",
+      "numberOfGames": 5,
+      "mvp": ""
+    },
+    {
+      "year": 1903,
+      "winner": "Boston Americans",
+      "loser": "Pittsburgh Pirates",
+      "numberOfGames": 8,
+      "mvp": ""
+    }
+  ]
+}

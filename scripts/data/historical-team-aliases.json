@@ -1,0 +1,14 @@
+{
+  "teams": [
+    { "name": "Anaheim Angels",    "startYear": 1997, "endYear": 2004 },
+    { "name": "Boston Americans",  "startYear": 1901, "endYear": 1907 },
+    { "name": "Boston Braves",     "startYear": 1912, "endYear": 1952 },
+    { "name": "Brooklyn Dodgers",  "startYear": 1932, "endYear": 1957 },
+    { "name": "Brooklyn Robins",   "startYear": 1914, "endYear": 1931 },
+    { "name": "Cleveland Indians", "startYear": 1915, "endYear": 2021 },
+    { "name": "Florida Marlins",   "startYear": 1993, "endYear": 2011 },
+    { "name": "Milwaukee Braves",  "startYear": 1953, "endYear": 1965 },
+    { "name": "Oakland Athletics", "startYear": 1968, "endYear": 2024 },
+    { "name": "St. Louis Browns",  "startYear": 1902, "endYear": 1953 }
+  ]
+}

@@ -1,0 +1,854 @@
+{
+  "teams": [
+    {
+      "name": "Akron Grays",
+      "startYear": 1933,
+      "endYear": 1933
+    },
+    {
+      "name": "Altoona Mountain Citys",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Anaheim Angels",
+      "startYear": 1997,
+      "endYear": 2004
+    },
+    {
+      "name": "Arizona Diamondbacks",
+      "startYear": 1998,
+      "endYear": 2026
+    },
+    {
+      "name": "Athletics",
+      "startYear": 1901,
+      "endYear": 2026
+    },
+    {
+      "name": "Atlanta Black Crackers",
+      "startYear": 1932,
+      "endYear": 1939
+    },
+    {
+      "name": "Atlanta Braves",
+      "startYear": 1876,
+      "endYear": 2026
+    },
+    {
+      "name": "Bacharach Giants",
+      "startYear": 1923,
+      "endYear": 1929
+    },
+    {
+      "name": "Baltimore Black Sox",
+      "startYear": 1923,
+      "endYear": 1934
+    },
+    {
+      "name": "Baltimore Elite Giants",
+      "startYear": 1930,
+      "endYear": 1948
+    },
+    {
+      "name": "Baltimore Monumentals",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Baltimore Orioles",
+      "startYear": 1901,
+      "endYear": 2026
+    },
+    {
+      "name": "Baltimore Orioles",
+      "startYear": 1901,
+      "endYear": 1902
+    },
+    {
+      "name": "Baltimore Orioles",
+      "startYear": 1882,
+      "endYear": 1899
+    },
+    {
+      "name": "Baltimore Terrapins",
+      "startYear": 1914,
+      "endYear": 1915
+    },
+    {
+      "name": "Birmingham Black Barons",
+      "startYear": 1924,
+      "endYear": 1948
+    },
+    {
+      "name": "Boston Americans",
+      "startYear": 1901,
+      "endYear": 1907
+    },
+    {
+      "name": "Boston Braves",
+      "startYear": 1912,
+      "endYear": 1952
+    },
+    {
+      "name": "Boston Red Sox",
+      "startYear": 1901,
+      "endYear": 2026
+    },
+    {
+      "name": "Boston Reds",
+      "startYear": 1890,
+      "endYear": 1891
+    },
+    {
+      "name": "Boston Reds",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Brooklyn Dodgers",
+      "startYear": 1932,
+      "endYear": 1957
+    },
+    {
+      "name": "Brooklyn Gladiators",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "Brooklyn Robins",
+      "startYear": 1914,
+      "endYear": 1931
+    },
+    {
+      "name": "Brooklyn Royal Giants",
+      "startYear": 1923,
+      "endYear": 1927
+    },
+    {
+      "name": "Brooklyn Tip-Tops",
+      "startYear": 1914,
+      "endYear": 1915
+    },
+    {
+      "name": "Brooklyn Ward's Wonders",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "Buffalo Bisons",
+      "startYear": 1914,
+      "endYear": 1915
+    },
+    {
+      "name": "Buffalo Bisons",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "Buffalo Bisons",
+      "startYear": 1879,
+      "endYear": 1885
+    },
+    {
+      "name": "Chicago American Giants",
+      "startYear": 1920,
+      "endYear": 1948
+    },
+    {
+      "name": "Chicago Cubs",
+      "startYear": 1876,
+      "endYear": 2026
+    },
+    {
+      "name": "Chicago Giants",
+      "startYear": 1920,
+      "endYear": 1921
+    },
+    {
+      "name": "Chicago Pirates",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "Chicago Whales",
+      "startYear": 1914,
+      "endYear": 1915
+    },
+    {
+      "name": "Chicago White Sox",
+      "startYear": 1901,
+      "endYear": 2026
+    },
+    {
+      "name": "Chicago/Pittsburgh (Union League)",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Cincinnati Kelly's Killers",
+      "startYear": 1891,
+      "endYear": 1891
+    },
+    {
+      "name": "Cincinnati Outlaw Reds",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Cincinnati Reds",
+      "startYear": 1882,
+      "endYear": 2026
+    },
+    {
+      "name": "Cincinnati Reds",
+      "startYear": 1876,
+      "endYear": 1879
+    },
+    {
+      "name": "Cincinnati Stars",
+      "startYear": 1880,
+      "endYear": 1880
+    },
+    {
+      "name": "Cincinnati Tigers",
+      "startYear": 1937,
+      "endYear": 1937
+    },
+    {
+      "name": "Cleveland Blues",
+      "startYear": 1879,
+      "endYear": 1884
+    },
+    {
+      "name": "Cleveland Browns",
+      "startYear": 1924,
+      "endYear": 1924
+    },
+    {
+      "name": "Cleveland Buckeyes",
+      "startYear": 1942,
+      "endYear": 1948
+    },
+    {
+      "name": "Cleveland Cubs",
+      "startYear": 1931,
+      "endYear": 1931
+    },
+    {
+      "name": "Cleveland Elites",
+      "startYear": 1926,
+      "endYear": 1926
+    },
+    {
+      "name": "Cleveland Guardians",
+      "startYear": 1901,
+      "endYear": 2026
+    },
+    {
+      "name": "Cleveland Hornets",
+      "startYear": 1927,
+      "endYear": 1927
+    },
+    {
+      "name": "Cleveland Indians",
+      "startYear": 1915,
+      "endYear": 2021
+    },
+    {
+      "name": "Cleveland Infants",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "Cleveland Red Sox",
+      "startYear": 1934,
+      "endYear": 1934
+    },
+    {
+      "name": "Cleveland Spiders",
+      "startYear": 1887,
+      "endYear": 1899
+    },
+    {
+      "name": "Cleveland Stars",
+      "startYear": 1932,
+      "endYear": 1932
+    },
+    {
+      "name": "Cleveland Tate Stars",
+      "startYear": 1922,
+      "endYear": 1922
+    },
+    {
+      "name": "Cleveland Tigers",
+      "startYear": 1928,
+      "endYear": 1928
+    },
+    {
+      "name": "Colorado Rockies",
+      "startYear": 1993,
+      "endYear": 2026
+    },
+    {
+      "name": "Columbus Blue Birds",
+      "startYear": 1933,
+      "endYear": 1933
+    },
+    {
+      "name": "Columbus Buckeyes",
+      "startYear": 1921,
+      "endYear": 1921
+    },
+    {
+      "name": "Columbus Buckeyes",
+      "startYear": 1883,
+      "endYear": 1884
+    },
+    {
+      "name": "Columbus Solons",
+      "startYear": 1889,
+      "endYear": 1891
+    },
+    {
+      "name": "Columbus Turfs",
+      "startYear": 1932,
+      "endYear": 1932
+    },
+    {
+      "name": "Cuban Stars East I",
+      "startYear": 1923,
+      "endYear": 1929
+    },
+    {
+      "name": "Cuban Stars West",
+      "startYear": 1920,
+      "endYear": 1930
+    },
+    {
+      "name": "Dayton Marcos",
+      "startYear": 1920,
+      "endYear": 1926
+    },
+    {
+      "name": "Detroit Stars I",
+      "startYear": 1920,
+      "endYear": 1931
+    },
+    {
+      "name": "Detroit Stars II",
+      "startYear": 1937,
+      "endYear": 1937
+    },
+    {
+      "name": "Detroit Tigers",
+      "startYear": 1901,
+      "endYear": 2026
+    },
+    {
+      "name": "Detroit Wolverines",
+      "startYear": 1881,
+      "endYear": 1888
+    },
+    {
+      "name": "Detroit Wolves",
+      "startYear": 1932,
+      "endYear": 1932
+    },
+    {
+      "name": "Florida Marlins",
+      "startYear": 1993,
+      "endYear": 2011
+    },
+    {
+      "name": "Harrisburg Giants",
+      "startYear": 1924,
+      "endYear": 1927
+    },
+    {
+      "name": "Hartford Dark Blues",
+      "startYear": 1876,
+      "endYear": 1877
+    },
+    {
+      "name": "Hilldale Club",
+      "startYear": 1923,
+      "endYear": 1932
+    },
+    {
+      "name": "Homestead Grays",
+      "startYear": 1929,
+      "endYear": 1948
+    },
+    {
+      "name": "Houston Astros",
+      "startYear": 1962,
+      "endYear": 2026
+    },
+    {
+      "name": "Indianapolis ABCs I",
+      "startYear": 1920,
+      "endYear": 1926
+    },
+    {
+      "name": "Indianapolis ABCs II",
+      "startYear": 1931,
+      "endYear": 1933
+    },
+    {
+      "name": "Indianapolis Athletics",
+      "startYear": 1937,
+      "endYear": 1937
+    },
+    {
+      "name": "Indianapolis Blues",
+      "startYear": 1878,
+      "endYear": 1878
+    },
+    {
+      "name": "Indianapolis Clowns",
+      "startYear": 1943,
+      "endYear": 1948
+    },
+    {
+      "name": "Indianapolis Hoosiers",
+      "startYear": 1887,
+      "endYear": 1889
+    },
+    {
+      "name": "Indianapolis Hoosiers",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Jacksonville Red Caps",
+      "startYear": 1938,
+      "endYear": 1942
+    },
+    {
+      "name": "Kansas City Cowboys",
+      "startYear": 1888,
+      "endYear": 1889
+    },
+    {
+      "name": "Kansas City Cowboys",
+      "startYear": 1886,
+      "endYear": 1886
+    },
+    {
+      "name": "Kansas City Cowboys",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Kansas City Monarchs",
+      "startYear": 1920,
+      "endYear": 1948
+    },
+    {
+      "name": "Kansas City Packers",
+      "startYear": 1914,
+      "endYear": 1915
+    },
+    {
+      "name": "Kansas City Royals",
+      "startYear": 1969,
+      "endYear": 2026
+    },
+    {
+      "name": "Little Rock Grays",
+      "startYear": 1932,
+      "endYear": 1932
+    },
+    {
+      "name": "Los Angeles Angels",
+      "startYear": 1961,
+      "endYear": 2026
+    },
+    {
+      "name": "Los Angeles Dodgers",
+      "startYear": 1884,
+      "endYear": 2026
+    },
+    {
+      "name": "Louisville Black Caps",
+      "startYear": 1931,
+      "endYear": 1932
+    },
+    {
+      "name": "Louisville Colonels",
+      "startYear": 1882,
+      "endYear": 1899
+    },
+    {
+      "name": "Louisville Grays",
+      "startYear": 1876,
+      "endYear": 1877
+    },
+    {
+      "name": "Memphis Red Sox",
+      "startYear": 1924,
+      "endYear": 1948
+    },
+    {
+      "name": "Miami Marlins",
+      "startYear": 1993,
+      "endYear": 2026
+    },
+    {
+      "name": "Milwaukee Bears",
+      "startYear": 1923,
+      "endYear": 1923
+    },
+    {
+      "name": "Milwaukee Braves",
+      "startYear": 1953,
+      "endYear": 1965
+    },
+    {
+      "name": "Milwaukee Brewers",
+      "startYear": 1969,
+      "endYear": 2026
+    },
+    {
+      "name": "Milwaukee Brewers",
+      "startYear": 1891,
+      "endYear": 1891
+    },
+    {
+      "name": "Milwaukee Brewers",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Milwaukee Grays",
+      "startYear": 1878,
+      "endYear": 1878
+    },
+    {
+      "name": "Minnesota Twins",
+      "startYear": 1901,
+      "endYear": 2026
+    },
+    {
+      "name": "Monroe Monarchs",
+      "startYear": 1932,
+      "endYear": 1932
+    },
+    {
+      "name": "Montgomery Grey Sox",
+      "startYear": 1932,
+      "endYear": 1932
+    },
+    {
+      "name": "New York Black Yankees",
+      "startYear": 1936,
+      "endYear": 1948
+    },
+    {
+      "name": "New York Cubans",
+      "startYear": 1935,
+      "endYear": 1948
+    },
+    {
+      "name": "New York Giants",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "New York Lincoln Giants",
+      "startYear": 1923,
+      "endYear": 1929
+    },
+    {
+      "name": "New York Metropolitans",
+      "startYear": 1883,
+      "endYear": 1887
+    },
+    {
+      "name": "New York Mets",
+      "startYear": 1962,
+      "endYear": 2026
+    },
+    {
+      "name": "New York Mutuals",
+      "startYear": 1876,
+      "endYear": 1876
+    },
+    {
+      "name": "New York Yankees",
+      "startYear": 1903,
+      "endYear": 2026
+    },
+    {
+      "name": "Newark Browns",
+      "startYear": 1932,
+      "endYear": 1932
+    },
+    {
+      "name": "Newark Dodgers",
+      "startYear": 1934,
+      "endYear": 1935
+    },
+    {
+      "name": "Newark Eagles",
+      "startYear": 1935,
+      "endYear": 1948
+    },
+    {
+      "name": "Newark Pepper",
+      "startYear": 1914,
+      "endYear": 1915
+    },
+    {
+      "name": "Newark Stars",
+      "startYear": 1926,
+      "endYear": 1926
+    },
+    {
+      "name": "Oakland Athletics",
+      "startYear": 1968,
+      "endYear": 2024
+    },
+    {
+      "name": "Philadelphia Athletic",
+      "startYear": 1876,
+      "endYear": 1876
+    },
+    {
+      "name": "Philadelphia Athletics",
+      "startYear": 1890,
+      "endYear": 1891
+    },
+    {
+      "name": "Philadelphia Athletics",
+      "startYear": 1882,
+      "endYear": 1890
+    },
+    {
+      "name": "Philadelphia Bacharach Giants",
+      "startYear": 1934,
+      "endYear": 1934
+    },
+    {
+      "name": "Philadelphia Keystones",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Philadelphia Phillies",
+      "startYear": 1883,
+      "endYear": 2026
+    },
+    {
+      "name": "Philadelphia Stars",
+      "startYear": 1934,
+      "endYear": 1948
+    },
+    {
+      "name": "Philadelphia Tigers",
+      "startYear": 1928,
+      "endYear": 1928
+    },
+    {
+      "name": "Pittsburgh Burghers",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "Pittsburgh Crawfords",
+      "startYear": 1933,
+      "endYear": 1940
+    },
+    {
+      "name": "Pittsburgh Keystones II",
+      "startYear": 1922,
+      "endYear": 1922
+    },
+    {
+      "name": "Pittsburgh Pirates",
+      "startYear": 1882,
+      "endYear": 2026
+    },
+    {
+      "name": "Pittsburgh Rebels",
+      "startYear": 1914,
+      "endYear": 1915
+    },
+    {
+      "name": "Pollock's Cuban Stars",
+      "startYear": 1932,
+      "endYear": 1932
+    },
+    {
+      "name": "Providence Grays",
+      "startYear": 1878,
+      "endYear": 1885
+    },
+    {
+      "name": "Richmond Virginians",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Rochester Broncos",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "San Diego Padres",
+      "startYear": 1969,
+      "endYear": 2026
+    },
+    {
+      "name": "San Francisco Giants",
+      "startYear": 1883,
+      "endYear": 2026
+    },
+    {
+      "name": "Seattle Mariners",
+      "startYear": 1977,
+      "endYear": 2026
+    },
+    {
+      "name": "St. Louis Brown Stockings",
+      "startYear": 1876,
+      "endYear": 1877
+    },
+    {
+      "name": "St. Louis Browns",
+      "startYear": 1902,
+      "endYear": 1953
+    },
+    {
+      "name": "St. Louis Cardinals",
+      "startYear": 1882,
+      "endYear": 2026
+    },
+    {
+      "name": "St. Louis Maroons",
+      "startYear": 1884,
+      "endYear": 1886
+    },
+    {
+      "name": "St. Louis Stars I",
+      "startYear": 1920,
+      "endYear": 1931
+    },
+    {
+      "name": "St. Louis Stars II",
+      "startYear": 1937,
+      "endYear": 1937
+    },
+    {
+      "name": "St. Louis Terriers",
+      "startYear": 1914,
+      "endYear": 1915
+    },
+    {
+      "name": "St. Louis-New Orleans-Harrisburg Stars",
+      "startYear": 1938,
+      "endYear": 1943
+    },
+    {
+      "name": "St. Paul Apostles",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Syracuse Stars",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "Syracuse Stars",
+      "startYear": 1879,
+      "endYear": 1879
+    },
+    {
+      "name": "Tampa Bay Rays",
+      "startYear": 1998,
+      "endYear": 2026
+    },
+    {
+      "name": "Texas Rangers",
+      "startYear": 1961,
+      "endYear": 2026
+    },
+    {
+      "name": "Toledo Blue Stockings",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Toledo Maumees",
+      "startYear": 1890,
+      "endYear": 1890
+    },
+    {
+      "name": "Toledo Tigers",
+      "startYear": 1923,
+      "endYear": 1923
+    },
+    {
+      "name": "Toronto Blue Jays",
+      "startYear": 1977,
+      "endYear": 2026
+    },
+    {
+      "name": "Troy Trojans",
+      "startYear": 1879,
+      "endYear": 1882
+    },
+    {
+      "name": "Washington Black Senators",
+      "startYear": 1938,
+      "endYear": 1938
+    },
+    {
+      "name": "Washington Nationals",
+      "startYear": 1969,
+      "endYear": 2026
+    },
+    {
+      "name": "Washington Nationals",
+      "startYear": 1886,
+      "endYear": 1889
+    },
+    {
+      "name": "Washington Nationals",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Washington Pilots",
+      "startYear": 1932,
+      "endYear": 1932
+    },
+    {
+      "name": "Washington Potomacs",
+      "startYear": 1924,
+      "endYear": 1925
+    },
+    {
+      "name": "Washington Senators",
+      "startYear": 1891,
+      "endYear": 1899
+    },
+    {
+      "name": "Washington Statesmen",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Wilmington Quicksteps",
+      "startYear": 1884,
+      "endYear": 1884
+    },
+    {
+      "name": "Worcester Ruby Legs",
+      "startYear": 1880,
+      "endYear": 1882
+    }
+  ]
+}
